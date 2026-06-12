@@ -3,7 +3,7 @@
 
   ![ColtonMcCasland's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ColtonMcCasland&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
   
-  ![ColtonMcCasland's Stats](https://github-readme-stats.vercel.app/api?username=ColtonMcCasland&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![ColtonMcCasland's Stats](https://github-readme-stats.vercel.app/api?username=ColtonMcCasland&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
   ![ColtonMcCasland's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ColtonMcCasland&theme=vue-dark&hide_border=true)
 
