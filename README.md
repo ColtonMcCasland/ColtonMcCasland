@@ -3,9 +3,9 @@
 
   ![ColtonMcCasland's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ColtonMcCasland&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
   
-  ![ColtonMcCasland's Stats](https://github-readme-stats.vercel.app/api?username=ColtonMcCasland&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+  ![ColtonMcCasland's Stats](https://github-readme-stats.vercel.app/api?username=ColtonMcCasland&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true)
 
-  ![ColtonMcCasland's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ColtonMcCasland&theme=vue-dark&hide_border=true)
+  ![ColtonMcCasland's Streak](https://streak-stats.demolab.com/?user=ColtonMcCasland&theme=vue-dark&hide_border=true)
 
 
 </div>
@@ -79,7 +79,7 @@
 
 [Objective-C-url]: https://developer.apple.com/documentation/objectivec
 
-[SQL]: https://img.shields.io/badge/MySQL-4479A1?logo=sql&logoColor=fff
+[SQL]: https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff
 
 [SQL-url]: https://en.wikipedia.org/wiki/SQL
 
@@ -105,4 +105,4 @@
 
 <!-- Socials -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in//colton-mccasland-518519114
+[linkedin-url]: https://linkedin.com/in/colton-mccasland-518519114
