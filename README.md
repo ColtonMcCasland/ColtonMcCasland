@@ -1,108 +1,38 @@
-## Stats
-<div align="center">
+<p align="center">
+  <img src="hero.svg" width="100%" alt="Colton McCasland. Fullstack engineer. Software, hardware and CAD. On GitHub since 2018.">
+</p>
 
-  ![ColtonMcCasland's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ColtonMcCasland&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  
-  ![ColtonMcCasland's Stats](https://github-readme-stats.vercel.app/api?username=ColtonMcCasland&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true)
+Fullstack engineer. I work across web and Apple platforms, and on the side I design in CAD and build hardware. My most-starred project is a working Pip-Boy 3000 built around a Raspberry Pi.
 
-  ![ColtonMcCasland's Streak](https://streak-stats.demolab.com/?user=ColtonMcCasland&theme=vue-dark&hide_border=true)
+<img src="stack.svg" width="100%" alt="Languages: Swift, Objective-C, TypeScript, JavaScript, Python, PHP. Web: HTML5, CSS3, Tailwind CSS. Data: PostgreSQL, MySQL, SQL. Workshop: CAD design, Raspberry Pi, GPIO wiring.">
 
+<a href="https://github.com/ColtonMcCasland/Raspipboy-3000"><img src="featured.svg" width="100%" alt="Featured build: Raspipboy-3000, a working Pip-Boy 3000 built around a Raspberry Pi and a 3.5 inch touchscreen. The Pi drives the touchscreen, two rotary encoders, three LEDs and audio out."></a>
 
-</div>
+- **Interface**: Python and pygame at 480×320 with STATS, ITEMS and DATA screens, adapted from [sabas1080/pypboy](https://github.com/sabas1080/pypboy)
+- **Controls**: two rotary encoders and three front LEDs wired to the GPIO header, with wiring and pinout diagrams in the repo
+- **Map and radio**: local and world maps drawn from OpenStreetMap data, and a radio with selectable stations
+- **Enclosure**: modified [ytec3d Pip-Boy](https://ytec3d.com/pip-boy/) model, 3D files included
 
-## Languages
-[![Swift]][Swift-url]
-[![Typescript]][Typescript-url]
-[![Javascript]][Javascript-url]
-[![Objective-C]][Objective-C-url]
-[![SQL]][SQL-url]
-[![HTML5]][HTML5-url]
-[![CSS3]][CSS3-url]
-[![Tailwind]][Tailwind-url]
-[![Python]][Python-url]
-[![PHP]][PHP-url]
-[![Postgres]][Postgres-url]
+[![Stars](https://img.shields.io/github/stars/ColtonMcCasland/Raspipboy-3000?style=flat-square&label=STARS&labelColor=0d1117&color=30363d)](https://github.com/ColtonMcCasland/Raspipboy-3000)
+[![Forks](https://img.shields.io/github/forks/ColtonMcCasland/Raspipboy-3000?style=flat-square&label=FORKS&labelColor=0d1117&color=30363d)](https://github.com/ColtonMcCasland/Raspipboy-3000/forks)
+&nbsp;[Repository](https://github.com/ColtonMcCasland/Raspipboy-3000) · [Demo on r/RASPBERRY_PI_PROJECTS](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/10emism/pipboy3000_raspberry_pi/)
 
-## Skills
+<details>
+<summary>Public repositories</summary>
 
-- Fullstack Engineering
-- CAD Design
+| Repo | Language | Last push |
+| :-- | :-- | :-- |
+| [Raspipboy-3000](https://github.com/ColtonMcCasland/Raspipboy-3000) | Python | 2024 |
+| [Mario-game-in-Java](https://github.com/ColtonMcCasland/Mario-game-in-Java) | Java | 2021 |
+| [flutter_weather_pin](https://github.com/ColtonMcCasland/flutter_weather_pin) | Dart (Flutter) | 2019 |
+| [MobileFinal_openWeatherPinApp](https://github.com/ColtonMcCasland/MobileFinal_openWeatherPinApp) | Dart (Flutter) | 2019 |
+| [MobileProgrammingAssignment4](https://github.com/ColtonMcCasland/MobileProgrammingAssignment4) | Dart (Flutter) | 2019 |
+| [TODOAPP-Flutter](https://github.com/ColtonMcCasland/TODOAPP-Flutter) | Dart (Flutter) | 2019 |
+| [PF2-Summer-2018](https://github.com/ColtonMcCasland/PF2-Summer-2018) | C++ | 2019 |
+| [paradigms](https://github.com/ColtonMcCasland/paradigms) | HTML, JavaScript | 2018 |
 
-<!-- 
-## Technologies
-|||
-|:---:|:---|
-| Runtime Environments | [![tokio][tokio]][tokio-url] [![Node.js][Node-url]][Node-url] [![.Net][Net-url]][Net-url] |
-| Frontend Frameworks | [![yew][yew-url]][yew-url] [![React][React-url]][React-url] [![laravel][laravel-url]][laravel-url] |
-| Backend Frameworks | [![axum][axum-url]][axum-url] [![Express][Express-url]][Express-url] [![netmvc][netmvc-url]][netmvc-url] |
-| Application Frameworks | [![tauri][tauri-url]][tauri-url] [![pwa][pwa-url]][pwa-url] |
-| State Management | [![Redux][Redux-url]][Redux-url] [![Redux-Saga][Reduxsaga-url]][Reduxsaga-url] [![reactquery][reactquery-url]][reactquery-url] |
-| Persistence | [![Postgres][postgres-url]][postgres-url] [![sqlite][sqlite-url]][sqlite-url] [![mysql][mysql-url]][mysql-url] |
-| Deployment | [![Docker][docker-url]][docker-url] [![awslambda][awslambda-url]][awslambda-url] [![AWS][AWS-url]][AWS-url] [![amazonec2][amazonec2-url]][amazonec2-url] [![awssecretsmanager][awssecretsmanager-url]][awssecretsmanager-url] |
-| Operating Systems | [![Linux][linux-url]][linux-url] [![redhat][redhat-url]][redhat-url] [![Ubuntu][ubuntu-url]][ubuntu-url] [![Arch-Linux][arch-url]][arch-url]  [![CentOS][centos-url]][centos-url] ![windowsserver2012][windowsserver2012] ![windowsserver2016][windowsserver2016] ![windowsserver2019][windowsserver2019] ![windowsserver2022][windowsserver2022] |
-| Network Hardware | [![cisco][cisco-url]][cisco-url] [![fortinet][fortinet-url]][fortinet-url] [![juniper][juniper-url]][juniper-url] [![ubiquiti][ubiquiti-url]][ubiquiti-url] |
-| Game Engines | [![godotengine][godotengine-url]][godotengine-url] [![bevy][bevy-url]][bevy-url] |
-| Cool Libs | [![p5][p5-url]][p5-url] | -->
+Forks: [mlx](https://github.com/ColtonMcCasland/mlx), Apple's array framework for Apple silicon, and [QuadrupedRobot](https://github.com/ColtonMcCasland/QuadrupedRobot), Mangdang's open-source robot dog kit.
 
-## Socials
+</details>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-<!-- Badge Template
-[![NAME][NAME]][NAME-url]
-
-[NAME]: https://img.shields.io/badge/NAME-30333a?style=for-the-badge&logo=LOGO&logoColor=FFFFFF
-[NAME-url]: URL
--->
-
-<!-- Languages -->
-[Swift]: https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white
-
-[Swift-url]: https://developer.apple.com/swift/
-
-[Typescript]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff
-
-[Typescript-url]: https://www.typescriptlang.org/
-
-[Javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000
-
-[Javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-
-[Postgres]: https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white
-
-[Postgres-url]: https://www.postgresql.org
-
-[Objective-C]: https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white
-
-[Objective-C-url]: https://developer.apple.com/documentation/objectivec
-
-[SQL]: https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff
-
-[SQL-url]: https://en.wikipedia.org/wiki/SQL
-
-[HTML5]: https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white
-
-[HTML5-url]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-
-[CSS3]: https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff
-
-[CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-
-[Tailwind]: https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white
-
-[Tailwind-url]: https://tailwindcss.com
-
-[Python]: https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff
-
-[Python-url]: https://www.python.org/
-
-[PHP]: https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white
-
-[PHP-url]: https://www.php.net/
-
-<!-- Socials -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/colton-mccasland-518519114
+<a href="https://linkedin.com/in/colton-mccasland-518519114"><img src="contact.svg" width="100%" alt="LinkedIn: Colton McCasland"></a>

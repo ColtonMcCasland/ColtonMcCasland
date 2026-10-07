@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="184" viewBox="0 0 800 184" role="img" aria-labelledby="t d">
+<title id="t">Stack</title>
+<desc id="d">Languages: Swift, Objective-C, TypeScript, JavaScript, Python, PHP; Web: HTML5, CSS3, Tailwind CSS; Data: PostgreSQL, MySQL, SQL; Workshop: CAD design, Raspberry Pi, GPIO wiring.</desc>
+<defs><pattern id="ht" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect class="q" width="1.4" height="6"/></pattern></defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono","DejaVu Sans Mono",monospace}
+.bg{fill:#0a0c0f}.bd{fill:none;stroke:#252a32}
+.f{fill:#e9eef3}.d{fill:#e9eef3;fill-opacity:.52}.q{fill:#e9eef3;fill-opacity:.3}
+.a{fill:#6fdcff}
+.ln{fill:none;stroke:#e9eef3;stroke-opacity:.16}
+.br{fill:none;stroke:#e9eef3;stroke-opacity:.7;stroke-width:1.5}
+.bx{fill:#e9eef3;fill-opacity:.04;stroke:#e9eef3;stroke-opacity:.34}
+.hl{fill:#6fdcff;fill-opacity:.22}
+.pu{fill:none;stroke:#6fdcff;stroke-width:1.6}
+@media (prefers-color-scheme:light){
+.bg{fill:#f4f5f7}.bd{stroke:#d0d7de}
+.f{fill:#0d1117}.d{fill:#0d1117;fill-opacity:.58}.q{fill:#0d1117;fill-opacity:.34}
+.a{fill:#0a66d0}
+.ln{stroke:#0d1117;stroke-opacity:.16}
+.br{stroke:#0d1117;stroke-opacity:.75}
+.bx{fill:#0d1117;fill-opacity:.03;stroke:#0d1117;stroke-opacity:.34}
+.hl{fill:#0a66d0;fill-opacity:.16}
+.pu{stroke:#0a66d0}
+}
+@keyframes blink{50%{opacity:0}}
+.bk{animation:blink 1.4s step-end infinite}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect class="bg" width="800" height="184" rx="3"/>
+<rect class="bd" x=".5" y=".5" width="799" height="183" rx="2.5"/>
+<path class="br" d="M1 13V1h12M787 1h12v12M799 171v12h-12M13 183H1v-12"/>
+<rect class="a" x="40" y="24" width="7" height="7"/>
+<text class="d" x="56" y="31.5" font-size="11" letter-spacing="1">01</text>
+<text class="f" x="80" y="31.5" font-size="12" font-weight="700" letter-spacing="3">STACK</text>
+<text class="q" x="147" y="31.5" font-size="10" letter-spacing=".5">53 54 41 43 4B</text>
+<rect x="714" y="23" width="46" height="9" fill="url(#ht)"/>
+<line class="ln" x1="40" y1="46" x2="760" y2="46"/>
+<text class="d" x="40" y="78" font-size="10.5" letter-spacing="1.6">LANGUAGES</text>
+<text class="q" x="40" y="108" font-size="9.5">00</text><text class="f" x="64" y="108" font-size="13.5">Swift</text>
+<text class="q" x="40" y="132" font-size="9.5">01</text><text class="f" x="64" y="132" font-size="13.5">Objective-C</text>
+<text class="q" x="40" y="156" font-size="9.5">02</text><text class="f" x="64" y="156" font-size="13.5">TypeScript</text>
+<text class="q" x="184" y="108" font-size="9.5">03</text><text class="f" x="208" y="108" font-size="13.5">JavaScript</text>
+<text class="q" x="184" y="132" font-size="9.5">04</text><text class="f" x="208" y="132" font-size="13.5">Python</text>
+<text class="q" x="184" y="156" font-size="9.5">05</text><text class="f" x="208" y="156" font-size="13.5">PHP</text>
+<line class="ln" x1="314" y1="64" x2="314" y2="162"/><text class="d" x="328" y="78" font-size="10.5" letter-spacing="1.6">WEB</text>
+<text class="q" x="328" y="108" font-size="9.5">06</text><text class="f" x="352" y="108" font-size="13.5">HTML5</text>
+<text class="q" x="328" y="132" font-size="9.5">07</text><text class="f" x="352" y="132" font-size="13.5">CSS3</text>
+<text class="q" x="328" y="156" font-size="9.5">08</text><text class="f" x="352" y="156" font-size="13.5">Tailwind CSS</text>
+<line class="ln" x1="458" y1="64" x2="458" y2="162"/><text class="d" x="472" y="78" font-size="10.5" letter-spacing="1.6">DATA</text>
+<text class="q" x="472" y="108" font-size="9.5">09</text><text class="f" x="496" y="108" font-size="13.5">PostgreSQL</text>
+<text class="q" x="472" y="132" font-size="9.5">0A</text><text class="f" x="496" y="132" font-size="13.5">MySQL</text>
+<text class="q" x="472" y="156" font-size="9.5">0B</text><text class="f" x="496" y="156" font-size="13.5">SQL</text>
+<line class="ln" x1="602" y1="64" x2="602" y2="162"/><text class="d" x="616" y="78" font-size="10.5" letter-spacing="1.6">WORKSHOP</text>
+<text class="q" x="616" y="108" font-size="9.5">0C</text><text class="f" x="640" y="108" font-size="13.5">CAD design</text>
+<text class="q" x="616" y="132" font-size="9.5">0D</text><text class="f" x="640" y="132" font-size="13.5">Raspberry Pi</text>
+<text class="q" x="616" y="156" font-size="9.5">0E</text><text class="f" x="640" y="156" font-size="13.5">GPIO wiring</text>
+
+</svg>

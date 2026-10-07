@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="266" viewBox="0 0 800 266" role="img" aria-labelledby="t d">
+<title id="t">Raspipboy-3000</title>
+<desc id="d">Featured build: a working Pip-Boy 3000 built around a Raspberry Pi and a 3.5 inch touchscreen. Python and pygame at 480 by 320, maps from OpenStreetMap. The Pi drives the touchscreen, two rotary encoders, three LEDs and audio out.</desc>
+<defs><pattern id="ht" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect class="q" width="1.4" height="6"/></pattern></defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono","DejaVu Sans Mono",monospace}
+.bg{fill:#0a0c0f}.bd{fill:none;stroke:#252a32}
+.f{fill:#e9eef3}.d{fill:#e9eef3;fill-opacity:.52}.q{fill:#e9eef3;fill-opacity:.3}
+.a{fill:#6fdcff}
+.ln{fill:none;stroke:#e9eef3;stroke-opacity:.16}
+.br{fill:none;stroke:#e9eef3;stroke-opacity:.7;stroke-width:1.5}
+.bx{fill:#e9eef3;fill-opacity:.04;stroke:#e9eef3;stroke-opacity:.34}
+.hl{fill:#6fdcff;fill-opacity:.22}
+.pu{fill:none;stroke:#6fdcff;stroke-width:1.6}
+@media (prefers-color-scheme:light){
+.bg{fill:#f4f5f7}.bd{stroke:#d0d7de}
+.f{fill:#0d1117}.d{fill:#0d1117;fill-opacity:.58}.q{fill:#0d1117;fill-opacity:.34}
+.a{fill:#0a66d0}
+.ln{stroke:#0d1117;stroke-opacity:.16}
+.br{stroke:#0d1117;stroke-opacity:.75}
+.bx{fill:#0d1117;fill-opacity:.03;stroke:#0d1117;stroke-opacity:.34}
+.hl{fill:#0a66d0;fill-opacity:.16}
+.pu{stroke:#0a66d0}
+}
+@keyframes blink{50%{opacity:0}}
+.bk{animation:blink 1.4s step-end infinite}
+.pu{stroke-dasharray:9 400;stroke-dashoffset:9;animation:pu 2.8s linear infinite}
+@keyframes pu{to{stroke-dashoffset:-260}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect class="bg" width="800" height="266" rx="3"/>
+<rect class="bd" x=".5" y=".5" width="799" height="265" rx="2.5"/>
+<path class="br" d="M1 13V1h12M787 1h12v12M799 253v12h-12M13 265H1v-12"/>
+<rect class="a" x="40" y="24" width="7" height="7"/>
+<text class="d" x="56" y="31.5" font-size="11" letter-spacing="1">02</text>
+<text class="f" x="80" y="31.5" font-size="12" font-weight="700" letter-spacing="3">FEATURED BUILD</text>
+<text class="q" x="242" y="31.5" font-size="10" letter-spacing=".5">46 45 41 54 55 52 45 44 20 42 55 49 4C 44</text>
+<rect x="714" y="23" width="46" height="9" fill="url(#ht)"/>
+<line class="ln" x1="40" y1="46" x2="760" y2="46"/>
+<text class="f" x="40" y="92" font-size="24" font-weight="700" letter-spacing="1.5">RASPIPBOY-3000</text>
+<text class="d" x="40" y="120" font-size="12.5">A working Pip-Boy 3000 built around a Raspberry Pi</text><text class="d" x="40" y="138" font-size="12.5">and a 3.5-inch touchscreen.</text>
+<line class="ln" x1="40" y1="158" x2="412" y2="158"/>
+<text class="d" x="40" y="186" font-size="10.5" letter-spacing="1.6">PLATFORM</text><text class="f" x="136" y="186" font-size="13" letter-spacing=".6">RASPBERRY PI</text>
+<text class="d" x="40" y="210" font-size="10.5" letter-spacing="1.6">INTERFACE</text><text class="f" x="136" y="210" font-size="13" letter-spacing=".6">PYTHON / PYGAME / 480×320</text>
+<text class="d" x="40" y="234" font-size="10.5" letter-spacing="1.6">MAPS</text><text class="f" x="136" y="234" font-size="13" letter-spacing=".6">OPENSTREETMAP</text>
+<path class="ln" stroke-opacity=".4" d="M564 150.0H592M592 84V216M592 84H620M592 128H620M592 172H620M592 216H620"/>
+<path class="pu" style="animation-delay:0.0s" d="M564 150.0H592V84H620"/><rect class="f" x="590" y="82" width="4" height="4"/>
+<rect class="bx" x="620" y="69.0" width="140" height="30"/><text class="f" x="690.0" y="88" font-size="11" letter-spacing=".8" text-anchor="middle">TOUCHSCREEN 3.5″</text>
+<path class="pu" style="animation-delay:-0.7s" d="M564 150.0H592V128H620"/><rect class="f" x="590" y="126" width="4" height="4"/>
+<rect class="bx" x="620" y="113.0" width="140" height="30"/><text class="f" x="690.0" y="132" font-size="11" letter-spacing=".8" text-anchor="middle">ROTARY ENCODER ×2</text>
+<path class="pu" style="animation-delay:-1.4s" d="M564 150.0H592V172H620"/><rect class="f" x="590" y="170" width="4" height="4"/>
+<rect class="bx" x="620" y="157.0" width="140" height="30"/><text class="f" x="690.0" y="176" font-size="11" letter-spacing=".8" text-anchor="middle">LED ×3</text>
+<path class="pu" style="animation-delay:-2.1s" d="M564 150.0H592V216H620"/><rect class="f" x="590" y="214" width="4" height="4"/>
+<rect class="bx" x="620" y="201.0" width="140" height="30"/><text class="f" x="690.0" y="220" font-size="11" letter-spacing=".8" text-anchor="middle">AUDIO OUT</text>
+<rect class="bx" stroke-opacity=".7" x="446" y="124.0" width="118" height="52"/><text class="f" x="505.0" y="154.0" font-size="11.5" font-weight="700" letter-spacing="1" text-anchor="middle">RASPBERRY PI</text>
+
+</svg>
