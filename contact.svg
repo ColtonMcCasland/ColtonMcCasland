@@ -5,23 +5,12 @@
 <style>
 text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono","DejaVu Sans Mono",monospace}
 .bg{fill:#0a0c0f}.bd{fill:none;stroke:#252a32}
-.f{fill:#e9eef3}.d{fill:#e9eef3;fill-opacity:.52}.q{fill:#e9eef3;fill-opacity:.3}
+.f{fill:#e9eef3}.d{fill:#e9eef3;fill-opacity:.56}.q{fill:#e9eef3;fill-opacity:.34}
 .a{fill:#6fdcff}
 .ln{fill:none;stroke:#e9eef3;stroke-opacity:.16}
 .br{fill:none;stroke:#e9eef3;stroke-opacity:.7;stroke-width:1.5}
 .bx{fill:#e9eef3;fill-opacity:.04;stroke:#e9eef3;stroke-opacity:.34}
 .hl{fill:#6fdcff;fill-opacity:.22}
-.pu{fill:none;stroke:#6fdcff;stroke-width:1.6}
-@media (prefers-color-scheme:light){
-.bg{fill:#f4f5f7}.bd{stroke:#d0d7de}
-.f{fill:#0d1117}.d{fill:#0d1117;fill-opacity:.58}.q{fill:#0d1117;fill-opacity:.34}
-.a{fill:#0a66d0}
-.ln{stroke:#0d1117;stroke-opacity:.16}
-.br{stroke:#0d1117;stroke-opacity:.75}
-.bx{fill:#0d1117;fill-opacity:.03;stroke:#0d1117;stroke-opacity:.34}
-.hl{fill:#0a66d0;fill-opacity:.16}
-.pu{stroke:#0a66d0}
-}
 @keyframes blink{50%{opacity:0}}
 .bk{animation:blink 1.4s step-end infinite}
 
@@ -31,9 +20,9 @@ text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberatio
 <rect class="bd" x=".5" y=".5" width="799" height="103" rx="2.5"/>
 <path class="br" d="M1 13V1h12M787 1h12v12M799 91v12h-12M13 103H1v-12"/>
 <rect class="a" x="40" y="24" width="7" height="7"/>
-<text class="d" x="56" y="31.5" font-size="11" letter-spacing="1">03</text>
+<text class="d" x="55" y="31.5" font-size="11" letter-spacing="1">03</text>
 <text class="f" x="80" y="31.5" font-size="12" font-weight="700" letter-spacing="3">CONTACT</text>
-<text class="q" x="168" y="31.5" font-size="10" letter-spacing=".5">43 4F 4E 54 41 43 54</text>
+<text class="q" x="166" y="31.5" font-size="10" letter-spacing=".5">43 4F 4E 54 41 43 54</text>
 <rect x="714" y="23" width="46" height="9" fill="url(#ht)"/>
 <line class="ln" x1="40" y1="46" x2="760" y2="46"/>
 <text class="f" x="40" y="80" font-size="14" font-weight="700" letter-spacing="2">LINKEDIN</text>
